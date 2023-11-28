@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #141415;
+    color: azure;
+    padding: 3vh;
+    font-size: 1.5rem;
+}
+.listCard{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
